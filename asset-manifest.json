@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/spotify/static/css/main.790a26f5.css",
+    "main.js": "/spotify/static/js/main.5c53bdf6.js",
+    "static/media/YeShaam.mp3": "/spotify/static/media/YeShaam.06b25056c13ebc938c05.mp3",
+    "static/media/BaateinYeKabhiNa.mp3": "/spotify/static/media/BaateinYeKabhiNa.521e7e6bee7202288997.mp3",
+    "static/media/Khairiyat.mp3": "/spotify/static/media/Khairiyat.fd93b64292c6ebb7eb3d.mp3",
+    "static/media/Ijazaat.mp3": "/spotify/static/media/Ijazaat.8086dac3423784bd80d7.mp3",
+    "static/media/YehJawaani.mp3": "/spotify/static/media/YehJawaani.19f5af4e7118e8774517.mp3",
+    "static/media/AiseNaMujhe.mp3": "/spotify/static/media/AiseNaMujhe.785d9f982618d2ebd822.mp3",
+    "static/media/Pachtaoge.mp3": "/spotify/static/media/Pachtaoge.e946cdc36b92e2ad6b88.mp3",
+    "static/media/PukartaChala.mp3": "/spotify/static/media/PukartaChala.213989106b9f8e34fa0f.mp3",
+    "static/media/DekhaNa.mp3": "/spotify/static/media/DekhaNa.c2b2da140b0f9bb26e05.mp3",
+    "static/media/HaalKyaHai.mp3": "/spotify/static/media/HaalKyaHai.5245d52fc03c23a4283d.mp3",
+    "static/media/AeKashKeHum.mp3": "/spotify/static/media/AeKashKeHum.06ec18706be2869cb3cb.mp3",
+    "static/media/Pachtaoge.jpg": "/spotify/static/media/Pachtaoge.59c3edf9dc391a3d3a52.jpg",
+    "static/media/AiseNa.png": "/spotify/static/media/AiseNa.e6bfb03aabc3f2a9c085.png",
+    "static/media/HaalKyaHai.jpg": "/spotify/static/media/HaalKyaHai.17f74347d8607f3c62de.jpg",
+    "static/media/Ijazaat.jpg": "/spotify/static/media/Ijazaat.09719e85839d40fa7898.jpg",
+    "static/media/PukartaChala.jpg": "/spotify/static/media/PukartaChala.d7cd49ce0e5eb166bc15.jpg",
+    "static/media/BaateinYe.jpg": "/spotify/static/media/BaateinYe.161008ac5dcb82b82ac9.jpg",
+    "static/media/logo.png": "/spotify/static/media/logo.6cd49a4d3d48a52c9156.png",
+    "static/media/YehZawani.jpg": "/spotify/static/media/YehZawani.e6f903736b898b35cab0.jpg",
+    "static/media/AeKaash.jpg": "/spotify/static/media/AeKaash.3df49a551c60e3ffd4ea.jpg",
+    "static/media/DekhaNa.jpg": "/spotify/static/media/DekhaNa.380c9857667eef5c2310.jpg",
+    "static/media/Khairiyat.jpg": "/spotify/static/media/Khairiyat.9762fe390fe6e542ed79.jpg",
+    "static/media/YehShaam.jpg": "/spotify/static/media/YehShaam.45d4b587667107b9e572.jpg",
+    "index.html": "/spotify/index.html",
+    "main.790a26f5.css.map": "/spotify/static/css/main.790a26f5.css.map",
+    "main.5c53bdf6.js.map": "/spotify/static/js/main.5c53bdf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.790a26f5.css",
+    "static/js/main.5c53bdf6.js"
+  ]
+}
